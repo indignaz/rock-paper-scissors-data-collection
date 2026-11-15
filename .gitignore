@@ -1,0 +1,21 @@
+# Android Studio and Gradle output
+.idea/
+.gradle/
+build/
+local.properties
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# Data the server produces at runtime
+RPS_Server/Rock/
+RPS_Server/Paper/
+RPS_Server/Scissors/
+RPS_Server/testing/
+RPS_Server/*.model
+RPS_Server/*.log
+
+# Temporary copy of the original repository
+.original/
